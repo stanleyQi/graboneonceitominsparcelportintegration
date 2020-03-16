@@ -18,9 +18,9 @@ namespace tools.helper
         {
             SecurityInfoForApi securityInfoForApi = new SecurityInfoForApi();
             string url = @"https://apitest.parcelport.co.nz/token";
-            string Username = "ParcelportTest";//test
-            string Password = "1234abcd";//test
-            string Grant_type = "password";//test
+            string Username = "XXX";//test
+            string Password = "XXX";//test
+            string Grant_type = "XXX";//test
             try
             {
                 using (HttpClient httpClient = new HttpClient())
