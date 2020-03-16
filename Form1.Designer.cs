@@ -312,7 +312,7 @@
             this.txtCompany.Name = "txtCompany";
             this.txtCompany.Size = new System.Drawing.Size(136, 26);
             this.txtCompany.TabIndex = 11;
-            this.txtCompany.Text = "wuyi";
+            this.txtCompany.Text = "XXX";
             // 
             // txtUsername
             // 
@@ -321,7 +321,7 @@
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(136, 26);
             this.txtUsername.TabIndex = 12;
-            this.txtUsername.Text = "dean";
+            this.txtUsername.Text = "XXX";
             // 
             // label7
             // 
@@ -341,7 +341,7 @@
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(136, 26);
             this.txtPassword.TabIndex = 12;
-            this.txtPassword.Text = "dean";
+            this.txtPassword.Text = "XXX";
             // 
             // label8
             // 
