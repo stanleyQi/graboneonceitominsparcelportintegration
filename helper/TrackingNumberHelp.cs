@@ -50,7 +50,7 @@ namespace tools.helper
                     trackingNumberClient.DefaultRequestHeaders.Authorization =
                             new AuthenticationHeaderValue("Bearer", userInfoForApi.access_token);
 
-                    string trackingNumberUrl = string.Format("https://apitest.parcelport.co.nz/api/1.0/consignment?client_id={0}&consignmentRefs={1}", userInfoForApi.client_id, consignmentRep.consignmentRef[0]);
+                    string trackingNumberUrl = string.Format("XXXXXXXXXX");
                     HttpResponseMessage result = trackingNumberClient.GetAsync(trackingNumberUrl).Result;
                     if (result.IsSuccessStatusCode)
                     {
