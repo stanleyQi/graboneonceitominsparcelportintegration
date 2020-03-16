@@ -82,9 +82,9 @@ namespace tools.helper
             //        var username = headless.FindElement(By.XPath("//*[@id='username']"));
             //        var password = headless.FindElement(By.XPath("//*[@id='password']"));
             //        var loginButton = headless.FindElement(By.XPath("//*[@id='loginButton']"));
-            //        companyname.SendKeys("wuyi");
-            //        username.SendKeys("dean");
-            //        password.SendKeys("dean");
+            //        companyname.SendKeys("XXX");
+            //        username.SendKeys("XXX");
+            //        password.SendKeys("XXX");
             //        loginButton.Click();
 
             //        var invoiceLink = headless.FindElement(By.XPath("/html/body/div[1]/ul/li[5]/a"));
