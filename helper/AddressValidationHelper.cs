@@ -13,9 +13,9 @@ namespace tools.helper
 {
     class AddressValidationHelper
     {
-        private static string addyapikey = "258989a635014f9791c1ffd1ac2e3450";
-        private const string addyapi_product = "https://api.addy.co.nz/validation?key={0}&address={1}";
-        private const string addyapi_postmanmockserver = "https://ec78ebb1-fb16-4aa6-9ae0-8d0778833314.mock.pstmn.io/validation{2}?key={0}&address={1}";
+        private static string addyapikey = "XXXXXXXXXX";
+        private const string addyapi_product = "XXXXXXXXXX";
+        private const string addyapi_postmanmockserver = "XXXXXXXXXX";
         private const string addyapi = addyapi_postmanmockserver;
 
         public static AddressValidated GetCleansedAddress(string address,int testi=1)
